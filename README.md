@@ -1,4 +1,4 @@
-# CrewAI_GeminiPro_AI_Agents
+# CrewAI_Gemini_AI_Agents
 ## This project is about creating a News Reasearcher & Writer from online using CrewAI Agents, SerperDevTool & gemini-1.5-flash LLM
 ## The News Researcher Agent first browse through the internet based on the user context, perform research using SerperDevTool
 ## The Writer Agent Narrates the summary and saves it as a markdown file
